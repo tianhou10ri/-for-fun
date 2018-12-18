@@ -106,3 +106,4 @@ Voice_of_Shadow.
 yozakura.sub
 DF-46
 DarkKnight
+Shionsaikou
