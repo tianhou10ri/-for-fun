@@ -2,3 +2,11 @@
 # 210.140.131.144 source.pixiv.net
 # 210.129.120.41 accounts.pixiv.net
 # 210.140.131.144 imgaz.pixiv.net
+# 104.21.3.121 blog.reimu.net
+
+140.82.114.4   github.com
+185.199.108.153   assets-cdn.github.com
+185.199.109.153   assets-cdn.github.com
+185.199.110.153   assets-cdn.github.com
+185.199.111.153   assets-cdn.github.com
+199.232.69.194     github.global.ssl.fastly.net
