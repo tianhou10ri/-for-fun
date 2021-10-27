@@ -10,3 +10,39 @@
 185.199.110.153   assets-cdn.github.com
 185.199.111.153   assets-cdn.github.com
 199.232.69.194     github.global.ssl.fastly.net
+
+13.111.100.197 click.mg.dlsite.com
+
+13.111.101.197 view.mg.dlsite.com
+18.182.113.204 login.dlsite.com
+23.8.97.227 image.mg.dlsite.com
+52.193.53.138 blog.dlsite.com http://www.origin.dlsite.com dealer.dlsite.com ssldownload.dlsite.com
+52.193.74.190 adv.dlsite.com
+52.193.232.213 dlsite.com eng.dlsite.com maniax.dlsite.com pro.dlsite.com pro2.dlsite.com home.dlsite.com books.dlsite.com comic.dlsite.com hana.dlsite.com
+54.65.172.123 ci-en.dlsite.com
+54.178.238.219 ch.dlsite.com
+54.199.167.11 play.dlsite.com
+151.101.2.217 ssl.cdn.dlsite.com
+151.101.10.217 ssl.dlsite.com
+163.171.193.127 http://www.dlsite.com media.dlsite.com download.dlsite.com play.dl.dlsite.com trial.dlsite.com
+163.171.198.112 img.dlsite.jp
+13.33.174.59 dlsite.blogimg.jp
+13.35.67.62 parts.blog.livedoor.jp
+
+151.101.110.217 www.dlsite.com
+151.101.110.217 ssl.dlsite.com
+3.113.124.227 play.dlsite.com
+163.171.198.110 download.dlsite.com
+69.171.248.112 announce.dlsite.com
+151.101.230.217 ssl.cdn.dlsite.com
+52.194.107.168 ch.dlsite.com
+13.112.86.37 ci-en.dlsite.com
+203.104.130.159 home-info.dlsite.com
+54.249.17.113 login.dlsite.com
+163.171.198.110 media.dlsite.com
+31.13.82.1 click.mg.dlsite.com
+31.13.82.1 mg.dlsite.com
+59.24.3.173 view.mg.dlsite.com
+52.219.68.176 trial.origin.dlsite.com
+31.13.82.23 trial.dlsite.com
+31.13.82.23 dlsite.com
